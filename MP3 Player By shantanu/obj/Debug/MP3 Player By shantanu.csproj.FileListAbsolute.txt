@@ -1,0 +1,16 @@
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\bin\Debug\MP3 Player By shantanu.exe.config
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\bin\Debug\MP3 Player By shantanu.exe
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\bin\Debug\MP3 Player By shantanu.pdb
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\bin\Debug\Interop.WMPLib.dll
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\bin\Debug\AxInterop.WMPLib.dll
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3 Player By shantanu.csprojResolveAssemblyReference.cache
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\Interop.WMPLib.dll
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\AxInterop.WMPLib.dll
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3 Player By shantanu.csproj.ResolveComReference.cache
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3_Player_By_shantanu.Form1.resources
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3_Player_By_shantanu.Properties.Resources.resources
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3 Player By shantanu.csproj.GenerateResource.cache
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3 Player By shantanu.csproj.CoreCompileInputs.cache
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3 Player By shantanu.exe
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3 Player By shantanu.pdb
+J:\Dot net Practice app\MP3 Player By shantanu\MP3 Player By shantanu\obj\Debug\MP3_Player_By_shantanu.Form2.resources
